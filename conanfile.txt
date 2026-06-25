@@ -1,0 +1,6 @@
+[requires]
+openssl/3.5.5
+
+[generators]
+CMakeDeps
+CMakeToolchain
